@@ -1,6 +1,6 @@
 # Jokes_App
 
-This app is created using Android studio using java language.
+This android application is created using Android studio using java language.
 
 Features in this app:
 1. Splash Screen
